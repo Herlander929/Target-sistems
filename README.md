@@ -7,7 +7,20 @@
 
 
 <h1>Tecnologias utilizadas</h1>
+
 C
+
+# 📁 Acesso ao projeto
+
+**Você pode Abrir o projeto em alguma IDE capaz de compilar a linguagem C ou simplesmente copiar o código e colar em alguma plataforma web que compile C, por exemplo o replit.com **
+
+# 🛠️ Abrir e rodar o projeto
+
+**-Clicar em TargetSistemas
+  -Vai encontrar 5 arquivos com a descrição "Problema"! 
+  -Abrir arquivo
+  -Copiar código e colar na plataforma, configurando a execução para código em C**
+  
 <Strong>Perguntas</Strong>
 
 1) Observe o trecho de código abaixo:
