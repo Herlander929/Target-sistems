@@ -6,9 +6,9 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-<h1>Tecnologias utilizadas<h1>
+<h1>Tecnologias utilizadas</h1>
 C
-<h1>Perguntas<h1>
+<Strong>Perguntas</Strong>
 
 1) Observe o trecho de código abaixo:
 
