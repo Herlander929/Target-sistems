@@ -1,11 +1,14 @@
 
 
 
-<h1 align="center"> Repositório com exercícios para vaga na Target Sistemas </h1>
+<h1 align="center">Sistemas para vaga na Target Sistemas </h1>
 
-Tecnologias utilizadas
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
+<h1>Tecnologias utilizadas<h1>
 C
-Perguntas
+<h1>Perguntas<h1>
 
 1) Observe o trecho de código abaixo:
 
