@@ -1,6 +1,7 @@
 
 
-Repositório com exercícios para vaga na Target Sistemas
+
+<h1 align="center"> Repositório com exercícios para vaga na Target Sistemas </h1>
 
 Tecnologias utilizadas
 C
